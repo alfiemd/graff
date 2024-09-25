@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you found this software useful, you can cite it using the metadata from this file."
+title: "graff"
+abstract: "This is software for research in graph theory."
+authors:
+  - family-names: Davies
+    given-names: Alfie
+    orcid: "https://orcid.org/0000-0002-4215-7343"
+version: 0.1.0
+date-released: "2024-09-25"
+keywords:
+  - "graph theory"
+  - mathematics
+license: Unlicense
+type: software
+repository-code: "https://github.com/alfiemd/graff"
+contact:
+  - email: research@alfied.xyz
+  - family-names: Davies
+  - given-names: Alfie
